@@ -1,3 +1,4 @@
+package Exercicio_7;
 public class Produto {
     private String nome;
     private String codigo;

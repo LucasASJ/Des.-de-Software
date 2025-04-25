@@ -1,3 +1,4 @@
+package Exercicio_3;
 public class ContaBancaria {
     private int numeroConta;
     private String nomeTitular;

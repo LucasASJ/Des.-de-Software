@@ -1,3 +1,4 @@
+package Exercicio_8;
 public class Pedido {
     private Pizza pizza;
     private String tamanho;

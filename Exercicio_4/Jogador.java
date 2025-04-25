@@ -1,3 +1,4 @@
+package Exercicio_4;
 public class Jogador {
     private String nome;
     private int pontuacao;

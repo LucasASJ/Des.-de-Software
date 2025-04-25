@@ -1,3 +1,4 @@
+package Exercicio_6;
 public class Contato {
     private String nome;
     private String telefone;
